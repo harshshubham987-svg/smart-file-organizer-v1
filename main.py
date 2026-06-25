@@ -227,5 +227,5 @@ def main():
         print("some thing is wrong!")
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()

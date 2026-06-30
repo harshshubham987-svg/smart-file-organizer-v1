@@ -56,6 +56,21 @@ The script will:
 
 ---
 
+## 🎥 Demo Video
+
+Watch the Smart File Organizer in action:
+
+🔗 [Watch Demo Video](https://drive.google.com/file/d/1cWruKL6CKS2JMWLR2cMnndQ-YyaagaV4/view?usp=drive_link)
+
+This demo shows:
+- Real-time folder scanning
+- Automatic file categorisation
+- Folder creation
+- Safe file movement
+- Final organized output
+
+---
+
 ## Customisation
 
 To add support for additional file types, edit the `detect_type` function in `main.py`:

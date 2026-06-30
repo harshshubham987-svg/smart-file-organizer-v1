@@ -192,7 +192,7 @@ def organize_files(orig_path):
                 error_count += 1
 
         if error_count == 0:
-            return "Work is completed"
+            return "All file is Organised Sucessfully."
         else:
             return f"some thing is wrong! Moved {moved_count} files, skipped {skipped_count} folders, {error_count} errors."
     except Exception:

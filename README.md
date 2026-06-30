@@ -71,6 +71,29 @@ This demo shows:
 
 ---
 
+## 📸 Preview
+
+### Before Organizing
+This is the folder before running the script:
+
+![Before Organizing](ss1.png)
+
+---
+
+### Running the Script
+The script scans the directory and categorizes files:
+
+![Script Running](ss2.png)
+
+---
+
+### After Organizing
+Files are successfully moved into categorized folders:
+
+![After Organizing](ss3.png)
+
+---
+
 ## Customisation
 
 To add support for additional file types, edit the `detect_type` function in `main.py`:
